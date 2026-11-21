@@ -89,7 +89,29 @@ main
 
 ## Results
 
-The project includes prediction outputs, model files, evaluation results, and screenshots in the `output/` and `RESULTS/` folders.
+The following screenshots demonstrate the leaf classification project and its experimental results.
+
+### Project Screenshots
+
+**Screenshot 1**
+
+![Result 1](RESULTS/Screenshot%202026-10-19%20144541.png)
+
+**Screenshot 2**
+
+![Result 2](RESULTS/Screenshot%202026-10-23%20233852.png)
+
+**Screenshot 3**
+
+![Result 3](RESULTS/Screenshot%202026-10-23%20233927.png)
+
+**Screenshot 4**
+
+![Result 4](RESULTS/Screenshot%202026-10-23%20233959.png)
+
+**Screenshot 5**
+
+![Result 5](RESULTS/Screenshot%202026-10-23%20234008.png)
 
 ## Author
 
