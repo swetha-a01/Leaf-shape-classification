@@ -1,0 +1,10 @@
+
+# GNU Octave temporary files
+octave-workspace
+*.asv
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

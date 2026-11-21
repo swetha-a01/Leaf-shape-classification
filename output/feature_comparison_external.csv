@@ -1,0 +1,7 @@
+filename,expected,shape_only_prediction,shape_plus_colour_prediction
+"betel_test.jpg","Betel_Leaf","Lemon","Betel_Leaf"
+"custardApple_test.jpg","Custard_Apple","Custard_Apple","Custard_Apple"
+"hibiscus_test.jpg","Hibiscus","Hibiscus","Hibiscus"
+"lemon_test.jpg","Lemon","Lemon","Lemon"
+"mango_test.jpg","Mango","Mango","Mango"
+"neem_test1.jpg","Neem","Neem","Neem"

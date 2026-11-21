@@ -1,0 +1,7 @@
+filename,expected,predicted,result,nearest_distance
+"betel_test.jpg","Betel_Leaf","Betel_Leaf","CORRECT",6.928635
+"custardApple_test.jpg","Custard_Apple","Custard_Apple","CORRECT",0.000000
+"hibiscus_test.jpg","Hibiscus","Hibiscus","CORRECT",9.318903
+"lemon_test.jpg","Lemon","Lemon","CORRECT",7.797622
+"mango_test.jpg","Mango","Mango","CORRECT",0.000000
+"neem_test1.jpg","Neem","Neem","CORRECT",12.157168
